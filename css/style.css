@@ -1,0 +1,362 @@
+body{
+	background-color: #B8C9D0;
+}
+li {
+	display: inline;
+	font-size: 30px;
+	font-family: 'Maven Pro', sans-serif;
+	padding: 19px;
+	color: #61605E;
+
+}
+.fondo img{
+	width: 100%;
+}
+#header img{
+	margin : 15px;
+	}
+.wrapper{
+	width: 600px;
+	padding: 30px;
+	margin: 0 auto;
+}
+.wrapper p{
+	color: #61605E;
+	font-family: 'Maven Pro', sans-serif;
+	margin-bottom: 40px;
+	text-align: center;
+	font-size: 20px;
+}
+
+textarea{
+	width: 100%;
+	margin-bottom: 15px;
+	padding: 5px;
+	background-color: #B8C9D0;
+}
+.wrapper a{
+	font-family: 'Ubuntu', sans-serif;
+	text-transform: none;
+	background:#B8C9D0;
+	color:#D9A87C ;
+	display: block;
+	padding: 10px 15px;
+	text-align: center;
+	font-size: 15px;
+}
+.wrapper input[type=text] {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border-radius: 2px;
+  background-color: #B8C9D0;
+}
+.floatin-box{
+	display: inline-block;
+	width: 200px;
+	height: 95px;
+	margin: 60px;
+	transition: 2s;
+	position: relative;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+.centered {
+    position: absolute;
+    top: 140%;
+    left: 61%;
+    transform: translate(-50%, -50%);
+    line-height: 1.2em;
+}
+.floatin-box img{
+	border-radius: 10px;
+}
+.grid_6{
+font-family: 'Lobster', cursive;
+font-size: 80px;
+text-align: center;
+color: #61605E;
+margin: 20px;
+margin-top: 40px;
+margin-bottom: 40px;
+}
+.grid_3 p{
+	width: 600px;
+    padding: 5px;
+    background-color: #B8C9D0;
+    margin: 0;
+    color: #61605E;
+    clear: center;
+	font-size: 20px;
+	line-height: 1.4em;
+	color: #61605E;
+	font-family: 'Ubuntu', sans-serif;
+	margin-top: 40px;
+}
+.grid_7 img{
+	border-radius: 7px;
+}
+.grid_7 h1{
+	display: inline;
+	float: middle;
+	width: 400px;
+    height: 200px;
+}
+.texto-4 p{
+display: inline;
+float: middle;
+width: 400px;
+height: 200px;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.header{
+	background-color: #B8C9D0;
+	margin-top: 20px;
+	padding: 10px 0px 5px 0px;
+}
+#nav{
+	background-color: #E4E4E4;
+	padding: 10px;
+}
+.column{
+	width: 300px;
+	padding: 30px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+.column h2{
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+	margin-bottom: 20px;
+}
+.column label{
+	font-family: 'Maven Pro', sans-serif;
+	margin-top: 5px;
+}
+.column input{
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+.wrapper .placeholder {
+	font-family: 'Ubuntu', sans-serif;
+
+}
+textarea{
+	font-family: 'Ubuntu', sans-serif;
+	color: #D9A87C;
+}
+.row{
+	width: 500px;
+	padding: 30px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+.row label{
+	font-family: 'Maven Pro', sans-serif;
+	margin-top: 5px;
+}
+.row input{
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+.column-2{
+	width: 500px;
+	padding: 30px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+.column-2 label{
+	font-family: 'Maven Pro', sans-serif;
+	margin-top: 5px;
+}
+.column-2 input{
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+.texto-4{
+	width: 900px;
+	padding:30px;
+	margin: 0 auto; 
+	color: #E4E4E4;
+	font-size: 25px;
+	font-family: 'Ubuntu', sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+.column{
+	background-color: #B8C9D0;
+	width: 300px;
+	padding: 30px;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+
+input[type=text] {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border-radius: 3px;
+  background-color: #E4E4E4;
+}
+label {
+  margin-bottom: 10px;
+  display: block;
+ }
+.btn {
+  background-color: #E4E4E4;
+  color: #D9A87C;
+  padding: 15px 80px;
+  margin: 10px 0;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 17px;
+  display: block;
+  border-radius: 15px;
+}
+.column-2 h3{
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+	margin-bottom: 20px;
+}
+.col-50 h3{
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+	margin-bottom: 20px;
+}
+.btn:hover {
+  background-color: #B8C9D0;
+}
+span.price {
+  float: right;
+  color: grey;
+}
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (and change the direction - make the "cart" column go on top) */
+@media (max-width: 100%) {
+  .row {
+    flex-direction: column-reverse;
+    float: right;
+  }
+  .col-25 {
+    margin-bottom: 20px;
+  }
+}
+.grid_8{
+font-family: 'Lobster', cursive;
+font-size: 100px;
+text-align: center;
+color: #E4E4E4;
+margin-top: 70px;
+margin-bottom: 50px;
+}
+.grid_7{
+font-family: 'Maven Pro', sans-serif;
+font-size: 90px;
+text-align: center;
+color: #61605E;
+margin-top: 30px;
+}
+.texto{
+	clear: center;
+	font-size: 90%;
+	line-height: 1.4em;
+	color: #61605E;
+	font-family: 'Ubuntu', sans-serif;
+}
+.grid_5{
+font-family: 'Lobster', cursive;
+font-size: 90px;
+text-align: center;
+color: #61605E;
+margin-top: 40px;
+margin-bottom: 30px;
+}
+.grid_11{
+	font-family: 'Maven Pro', sans-serif;
+	font-size: 30px;
+	color: #61605E;
+	margin-right: 30px;
+}
+#grid-00 {
+font-family: 'Lobster', cursive;
+font-size: 80px;
+color: #D9A87C;
+margin-top: 30px;
+text-align: center;
+}
+
+.info{
+font-family: 'Maven Pro', sans-serif;
+font-size: 26px;
+color: #61605E;
+}	
+.texto-2{
+font-family: 'Maven Pro', sans-serif;
+font-size: 15px;
+color: #61605E;	
+line-height: 1.5em;
+}
+.mapa img{
+	border-radius: 20px;
+	width: 700px;
+	height: 400px;
+	margin-right: 100px;
+	margin-left: 0;
+}
+.box{
+	width: 300px;
+	height: 100px;
+	margin-left: 40px;
+}
+
+.container-2{
+	max-width: 1170px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+}
+button {
+  background-color: #E4E4E4;
+  color: #D9A87C;
+  border-radius: 15px;
+  padding: 8px 35px;
+  margin: 10px 0;
+  cursor: pointer;
+  font-size: 17px;
+  display: block;
+  }
+button:hover {
+  background-color: #B8C9D0;
+}
+a:visited{
+	color: #61605E;
+}
+a:hover{
+    color: #DDAC7C;
+    text-decoration: none;
+}
+a:link{
+	text-decoration: none;
+}
+
+.footer {
+	font-family: 'Ubuntu', sans-serif;
+	color: #61605E;
+	font-size: 15px;
+	text-align: left;
+}
+.footer{
+	background-color: #E4E4E4;
+	margin-top: 20px;
+	padding: 10px 0px 5px 0px;
+}
